@@ -1,1 +1,1 @@
-# sum-of-n-natural-nums
+# python code for succesfully finding sum of n natural numbers.
